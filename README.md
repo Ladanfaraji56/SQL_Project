@@ -56,7 +56,9 @@ Breakdown of the Top Data Analyst Jobs:
  - Diverse Employers: High salaries aren’t limited to one industry. Companies like SmartAsset, Meta, and AT&T are leading the way, proving that demand for data analysts spans multiple sectors.
  - Varied Job Titles: From Data Analyst to Director of Analytics, the job market reflects a broad spectrum of roles, showing how specialization and experience can shape career growth in data analytics.
 
+
  ![Top Paying Rols](assets\1_top_paying_roles.png)
+ 
  *Bar graph visualizing the salary for the top 10 salaries for data analysts using python(pandas, numpy, and matplotlib)*
  ```python
  import matplotlib.pyplot as plt
@@ -143,7 +145,9 @@ Breakdown of the most demanded skills:
 Data visualization tools like Tableau and Power BI are important.
 Cloud platforms (Azure, Snowflake, AWS) and collaboration tools (Jira, Confluence) are becoming more relevant.
 
+
  ![Top Paying Rols](assets\2_top_paying_job_skills.png)
+
  *Bar graph visualizing the salary for the top 10 salaries for data analysts using python(pandas, numpy, and matplotlib)*
 
   ### 3. In-Demand Skills for Data Analysts
