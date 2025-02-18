@@ -179,6 +179,7 @@ Programming and Visualization Tools like Python, Tableau, and Power BI are now i
 | Python     | 4,330       |
 | Tableau    | 3,745       |
 | Power BI   | 2,609       |
+
 *Table of the demand for the top 5 skills in data analyst job postings*
 
   ### 4. Skills Based on Salary
@@ -235,6 +236,7 @@ Data Engineering & Advanced Databases (PostgreSQL, Couchbase) continue to be in 
 | PostgreSQL    | 123,879           |
 | GCP           | 122,500           |
 | Microstrategy | 121,619           |
+
 *Table of the average salary for the top 25 paying skills for data analysts*
 
   ### 5. Most Optimal Skills to Learn
@@ -335,6 +337,7 @@ Companies value analysts with workflow and project management tool experience.
 | SAS           | 63          | 98,902            |
 | SQL Server    | 35          | 97,786            |
 | JavaScript    | 20          | 97,587            |
+
 *Table of the most optimal skills for data analyst sorted by salary*
 # Conclusions
 From this analysis, several key takeaways emerged about the data analyst job market:
