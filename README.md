@@ -57,7 +57,7 @@ Breakdown of the Top Data Analyst Jobs:
  - Varied Job Titles: From Data Analyst to Director of Analytics, the job market reflects a broad spectrum of roles, showing how specialization and experience can shape career growth in data analytics.
 
 
- ![Top Paying Rols](images\1_top_paying_roles.png)
+ ![Top Paying Rols](images/1_top_paying_roles.png)
  
  *Bar graph visualizing the salary for the top 10 salaries for data analysts using python(pandas, numpy, and matplotlib)*
  ```python
@@ -146,7 +146,7 @@ Data visualization tools like Tableau and Power BI are important.
 Cloud platforms (Azure, Snowflake, AWS) and collaboration tools (Jira, Confluence) are becoming more relevant.
 
 
- ![Top Paying Rols](images\2_top_paying_job_skills.png)
+ ![Top Paying Rols](images/2_top_paying_job_skills.png)
 
  *Bar graph visualizing the salary for the top 10 salaries for data analysts using python(pandas, numpy, and matplotlib)*
 
